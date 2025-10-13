@@ -2,3 +2,4 @@
 - Conceptos de Realidad virtual, Mixta y Aumentada.
 - Reset de fabrica de las gafas:
 	- Botón de apagado & Vol-.
+- Partes de unity, jerarquia, inspector, GameObjects, Componentes...
