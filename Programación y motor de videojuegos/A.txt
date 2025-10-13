@@ -1,0 +1,12 @@
+
+Que hace el motor de videojuegos?
+
+Update:
+
+While(true){
+ProcessInput();
+UpdateState();
+UpdateScreen();
+}
+
+Se ejecuta cada frame.
