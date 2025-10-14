@@ -68,3 +68,7 @@ BUSCAR COMO FUNCIONAN LOS BUSES DE DATOS Y DE CONTROL Y DIRECCIONES EN LA ARQUIT
           ^
           |
           | Bus de Control
+
+----------------------------------------
+Prototipado: Se hace un prototipo para que los posibles inversores vean el juego funcional y usable.
+Las primeras versiones es todo muy básico, y el personaje es solo una capsula al principio.
