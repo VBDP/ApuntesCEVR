@@ -11,10 +11,14 @@
             "id": "65d94970e444928c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3. Diseño,Gestión publicación y producción/2. Game Jam Pau Casesnoves.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Game Jam Pau Casesnoves"
             }
           }
         ]
@@ -162,7 +166,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "797255a0fa6b1e70",
+  "active": "65d94970e444928c",
   "lastOpenFiles": [
     "9. Images/Pasted image 20251014102531.png",
     "9. Images/Pasted image 20251014102525.png",
