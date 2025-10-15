@@ -1,0 +1,12 @@
+- Conceptualmente jugamos en 3D pero realmente jugamos en una pantalla 2D.
+- Juegos 2D con Perspectiva Isométrica.
+- Efecto de profundidad en 2D: Parallax.
+	- El **efecto parallax** en videojuegos crea una ilusión de profundidad al mover diferentes capas del escenario a velocidades distintas, siendo las capas del fondo más lentas que las del primer plano. Esta técnica, popularizada en los años 80, sigue siendo celebrada por su impacto visual y su capacidad para enriquecer la inmersión. 
+- 2.5D es el uso del 2D como si fuera 3D o de 3D como si fuera 2D. 
+- Los juegos 2D son movimientos horizontales o verticales en 2 ejes.
+- la iluminación de un proyecto 2D es 2D, pero la 3D da perspectiva de profundidad.
+
+- Conceptos
+	- Parallax
+	- Scroll
+	- Perspectiva Isometrica
