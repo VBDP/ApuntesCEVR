@@ -1,0 +1,2 @@
+- Un prefab es un recurso prefabricado con todos los componentes necesarios ya agregados y utilizable.
+- Si agregamos un prefab a la escena creamos un GameObject a partir del prefab.

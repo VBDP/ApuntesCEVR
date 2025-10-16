@@ -2,4 +2,20 @@
 - Conceptos de Realidad virtual, Mixta y Aumentada.
 - Reset de fabrica de las gafas:
 	- Botón de apagado & Vol-.
-- Partes de unity, jerarquia, inspector, GameObjects, Componentes...
+- Creación e inicio de sesión en cuenta de meta.
+- Creación y edición de zona segura.
+- Conexión del dispositivo, vinculación con app de meta.
+- Visualización del tutorial y safety de las gafas.
+- Instalación de algunos juegos.
+- Prueba del juego de Realidad Aumentada.
+- Descarga e instalación de SideQuest.
+- Puesta de gafas en modo desarrollador.
+- Uso de link con cable.
+--------------
+16/10/2025
+- Continuación de Descarga e Instalación de SideQuest.
+- Instalación de APK mediante SideQuest.
+- Prueba de diferentes juegos 
+- Instalación de Half Life Alyx
+- Prueba de Steam Link
+- Jugar a First Encounters y First Hand
