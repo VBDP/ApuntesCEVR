@@ -1,12 +1,46 @@
 - Conceptualmente jugamos en 3D pero realmente jugamos en una pantalla 2D.
 - Juegos 2D con Perspectiva Isométrica.
 - Efecto de profundidad en 2D: Parallax.
-	- El **efecto parallax** en videojuegos crea una ilusión de profundidad al mover diferentes capas del escenario a velocidades distintas, siendo las capas del fondo más lentas que las del primer plano. Esta técnica, popularizada en los años 80, sigue siendo celebrada por su impacto visual y su capacidad para enriquecer la inmersión. 
+	- El **efecto Parallax** en videojuegos crea una ilusión de profundidad al mover diferentes capas del escenario a velocidades distintas, siendo las capas del fondo más lentas que las del primer plano. Esta técnica, popularizada en los años 80, sigue siendo celebrada por su impacto visual y su capacidad para enriquecer la inmersión. 
 - 2.5D es el uso del 2D como si fuera 3D o de 3D como si fuera 2D. 
 - Los juegos 2D son movimientos horizontales o verticales en 2 ejes.
 - la iluminación de un proyecto 2D es 2D, pero la 3D da perspectiva de profundidad.
 
 - Conceptos
-	- Parallax
-	- Scroll
-	- Perspectiva Isometrica
+	- Parallax.
+	- Scroll.
+	- Perspectiva Isométrica.
+
+-------------
+- GIMP Solo trabaja RGB Mientras Photoshop trabaja con el resto de sistemas.
+- Sistemas de color:
+	- **RGB** trabaja con colores básicos y es aditivo.
+	- **CMYK** trabaja con colores complementarios y es sustractivo.
+	- **HLS** trabaja con Brillo y tono del color, defines dos valores:
+		- Brillo, luminosidad del color (escala de grises).
+		- Tono del color (cualquier color).
+	- Las imprentas trabajan con sistema sustractivo (CMYK).
+- **Selección de imágenes para un juego:**
+	- Creamos la imagen pensando en el dispositivo final.
+	- Si creamos una imagen para una resolución X se verá bien en esa pero podría verse mal en otras...
+		- Se puede estirar y ajustar la imagen a la pantalla (Aumentando el tamaño de los pixeles).
+		- Se puede centrar y no escalar.
+		- Se puede escalar con interpolación para evitar que se vea mal la imagen (DLSS).
+		- Se puede modificar la resolución del monitor al de la imagen.
+		- Se crea 1 imagen para cada resolución del juego, aumentando el peso de los archivos.
+- Resolución X,Y:
+	- Hace referencia a la densidad de pixeles/puntos: La relación que hay entre la resolución y el tamaño físico de la imagen.
+- Los ratones también usan PPP (dpi), a más puntos por pulgada más se mueve en menos espacio y la densidad es mayor.
+- Los escáneres usan dpi para escanear las hojas.
+- Las pantallas no suelen pasar de 200dpi.
+- La precisión es para hacer el escalado con interpolación y calcular los algoritmos para renderizar la imagen, a mayor más tiempo tardará pero más calidad tendrá.
+- **Gamma:**
+	- Que cantidad de colores es capaz de reproducir, se determina con al numero de bits asignado a cada color (8 es estándar).
+- Colores Pantone: colección física de cartones con color y codificación.
+
+- **Gimp**:
+	- Espacio de trabajo (en el centro).
+	- Áreas de menús y opciones.
+	- Accesos directos a distintas herramientas.
+- El color se puede calcular con grados kelvin, en fotografía ,bombillas...
+- Los colores ultravioletas o infrarrojos no están por que no los vemos.
