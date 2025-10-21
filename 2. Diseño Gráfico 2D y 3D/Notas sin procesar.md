@@ -8,7 +8,7 @@
 
 - Conceptos
 	- Parallax.
-	- Scroll.
+	- Scroll: movimientos laterales o verticales de la cámara.
 	- Perspectiva Isométrica.
 
 -------------
@@ -44,3 +44,26 @@
 	- Accesos directos a distintas herramientas.
 - El color se puede calcular con grados kelvin, en fotografía ,bombillas...
 - Los colores ultravioletas o infrarrojos no están por que no los vemos.
+
+------------
+- Los .Avi y . MKV son contenedores con flujos de bits que representan el video/audio y que puede o no estar comprimido, si está comprimido será con perdida.git status
+- 
+- Compresión en imagenes:
+	- Para que las imagenes no pesen demasiado, se comprimen de dos maneras
+		- Sin perdida: Se reduce el tamaño del archivo sin perder calidad en la imagen.
+			- Algoritmo de repeticiones: Pasar de binario a decimal para ocupar la mitad sin perder información. 00011100101110001110011 = 30519896
+			- Lev-Zempel: Argoritmo de compresion sin perdida para grandes cantidades de datos.
+		- Con perdida: Se reduce el tamaño y la calidad.
+			- En una imagen la corta a trozos y los que son idénticos o muy parecidos los elimina, de esta manera si tiene 30 bloques lo reduce a 1/3 dejando 9 por ejemplo...
+		- Formatos de imagen comprimidas habitualmente:
+			- JPG,JPEG...
+- Compresión en videos:
+	- Bitrate: A mayor bitrate + información se envía, más calidad pero más potencia necesita.
+	- El audio también se comprime.
+	- Los videos van dentro de contenedores con:
+		- Pista de video
+		- Pista de audio con 1 o + pistas.
+		- El oído humano no puede escuchar frecuencias por encima de 20000mhz ni menos de 20mhz.
+
+- Compresión en Audio:
+	- 
