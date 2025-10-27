@@ -5,7 +5,7 @@
 - Crear el GDD para planificar como será exactamente el proyecto.
 - Crear el clickup con las tareas para el proyecto. OK
 - Crear una hoja de referencias de estilos para saber qué estilos voy a darle al juego.
-- Crear el proyecto de unity donde voy a hacer el juego.
+- Crear el proyecto de unity donde voy a hacer el juego. OK
 
 ### 🧠 **Concepto general**
 
