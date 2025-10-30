@@ -9,3 +9,10 @@
 - Moving NPC With Rigidbody
 		- rb.addforce
 		- rb.velocity
+		- rb.AddRelativeForce
+		- rb.MovePosition()
+- Rotate NPC with rigidbody
+	- rb.AddTorque
+	- rb.MoveRotation
+
+- 
