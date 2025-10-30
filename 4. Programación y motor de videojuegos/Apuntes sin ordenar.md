@@ -1,3 +1,11 @@
 - Un prefab es un recurso prefabricado con todos los componentes necesarios ya agregados y utilizable.
 - Si agregamos un prefab a la escena creamos un GameObject a partir del prefab.
-- 
+- Moving NPC With Transform
+	- Es un quaternion.
+	- Transform.rotation = Quaternion.Euler(x,y,z);
+	- transform.Rotate();
+	- transform.LookAt();
+	- transform.rotateAround();
+- Moving NPC With Rigidbody
+		- rb.addforce
+		- rb.velocity
