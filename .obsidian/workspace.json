@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Diseño,Gestión publicación y producción/1. Cuaderno de Bitácora.md",
+                "file": "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Diseño,Gestión publicación y producción/1. Cuaderno de Bitácora.md",
+                "file": "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +166,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "797255a0fa6b1e70",
+  "active": "65d94970e444928c",
   "lastOpenFiles": [
-    "1. General/2. Enlaces importantes.md",
-    "1. General/1.Horario CEVR.png",
-    "3. Diseño,Gestión publicación y producción/2. Tema 1.md",
+    "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
+    "2. Diseño Gráfico 2D y 3D/2. Introducción y Conceptos.md",
+    "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
     "3. Diseño,Gestión publicación y producción/1. Cuaderno de Bitácora.md",
+    "3. Diseño,Gestión publicación y producción/2. Tema 1.md",
+    "1. General/1.Horario CEVR.png",
+    "1. General/2. Enlaces importantes.md",
     "3. Diseño,Gestión publicación y producción/2. Game Jam Pau Casesnoves.md",
     "2. Diseño Gráfico 2D y 3D/Trabajos/TextoTextoRecortado1.png",
     "2. Diseño Gráfico 2D y 3D/Trabajos/TextoTextoRecortado1.xcf",
@@ -181,13 +184,10 @@
     "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
     "4. Programación y motor de videojuegos/Apuntes sin ordenar.md",
     "4. Programación y motor de videojuegos/2. Tema 1.md",
-    "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
     "README.md",
     "6. Proyecto Videojuego/Lista de tareas.md",
     "5. Realidad virtual y aumentada/Cuaderno de bitacora RV.md",
     "6. Proyecto Videojuego",
-    "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
-    "2. Diseño Gráfico 2D y 3D/2. Introducción y Conceptos.md",
     "2. Diseño Gráfico 2D y 3D/Trabajos/Escena de prueba de gimp/EscenaDePruebaGimp.png",
     "2. Diseño Gráfico 2D y 3D/Trabajos/Escena de prueba de gimp/EscenaDePruebaGimp.xcf",
     "2. Diseño Gráfico 2D y 3D/Trabajos/Escena de prueba de gimp",
