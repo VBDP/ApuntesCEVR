@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Cuaderno de Bitácora"
+            }
+          },
+          {
+            "id": "393801d3a1833432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
                 "mode": "source",
                 "source": false
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
+                "file": "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Cuaderno de Bitácora"
+              "title": "Notas sin procesar"
             }
           }
         ],
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
+                "file": "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,16 +195,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "a81dd264781ba80d",
+  "active": "393801d3a1833432",
   "lastOpenFiles": [
     "3. Diseño,Gestión publicación y producción/1. Cuaderno de Bitácora.md",
-    "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
-    "1. General/1.Horario CEVR.png",
     "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
-    "4. Programación y motor de videojuegos/2. Tema 1.md",
-    "2. Diseño Gráfico 2D y 3D/3. Dibujo 2D Vectorial.md",
+    "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
     "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
     "2. Diseño Gráfico 2D y 3D/2. Introducción y Conceptos.md",
+    "1. General/1.Horario CEVR.png",
+    "4. Programación y motor de videojuegos/2. Tema 1.md",
+    "2. Diseño Gráfico 2D y 3D/3. Dibujo 2D Vectorial.md",
     "3. Diseño,Gestión publicación y producción/2. Tema 1.md",
     "1. General/2. Enlaces importantes.md",
     "3. Diseño,Gestión publicación y producción/2. Game Jam Pau Casesnoves.md",
