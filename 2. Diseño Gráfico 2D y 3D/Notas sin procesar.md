@@ -2,3 +2,18 @@
 	- URP -> Universal Render Pipeline
 	- HDRP -> Hight Definition Render Pipeline
 	-  BRP -> Built-in Render Pipeline.
+
+- Video
+	- Idea.
+	- Sinopsis.
+	- Guión (StoryBoard).
+	- Obtención de material. (Imagen y sonido):
+		- Conseguir las imágenes y recursos necesarios ya sea grabando, recuperando material antiguo, descargandolos... 
+		- Montaje / Edición:
+			- En base al guión y con el material obtenido se monta y se edita.
+	- PostProducción:
+		- CGI, Efectos Especiales,...
+		- Cambio de color, tonalidad.
+		- Brillo, nitidez...
+	- Video Final
+		- El resultado del video una vez editado.
