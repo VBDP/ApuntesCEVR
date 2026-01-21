@@ -3,17 +3,66 @@
 	- HDRP -> Hight Definition Render Pipeline
 	-  BRP -> Built-in Render Pipeline.
 
+- El director en el cine es el realizador en la TV.
 - Video
-	- Idea.
-	- Sinopsis.
-	- Guión (StoryBoard).
+	- Idea: 
+		- Pensar el qué, como, por que...
+	- Sinopsis: 
+		- La temática, de que va la pelicula, en un solo paragrafo.
+	- Guion (StoryBoard): (2 tipos)
+		- Artístico: Diálogos de los personajes.
+		- Técnico: Se especifican plano por plano, secuencia por secuencia, todo lo que ocurre en el video, como se graba, ángulo, perspectiva, iluminación,...
+		- Lo hacen el Director y los Guionistas.
+		- El storyboard es una especie de comic visual que sirve para explicar gráficamente y ayuda a entender mejor todo.
+	- Producción: 
+		- Productor ejecutivo: Pone el dinero para financiar el proyecto.
+		- Productor: Se encarga de realizar las gestiones necesarias para poder obtener o crear el contenido necesario para poder realizar el proyecto.
+		- Especializaciones: Doblaje, escenarios, búsqueda de actores...
 	- Obtención de material. (Imagen y sonido):
-		- Conseguir las imágenes y recursos necesarios ya sea grabando, recuperando material antiguo, descargandolos... 
+		- Conseguir las imágenes y recursos necesarios ya sea grabando, recuperando material antiguo, descargandolos ... 
 		- Montaje / Edición:
-			- En base al guión y con el material obtenido se monta y se edita.
-	- PostProducción:
-		- CGI, Efectos Especiales,...
+			- Para el montaje, en base al guion y con el material obtenido se colocan las escenas de forma que den el resultado final buscado.
+			- La edición permite contar la historia de forma diferente, agregar cortinillas, flashbacks... 
+	- Postproducción: 
+		- CGI, Efectos Especiales(FX),...
 		- Cambio de color, tonalidad.
 		- Brillo, nitidez...
+		- Etalonaje: Hacer que imágenes que están grabadas de día parezcan de noche y viceversa, cambiando el brillo, tonalidad, filtros...
 	- Video Final
+		- Golden Sample: La muestra de donde se sacarán las copias.
 		- El resultado del video una vez editado.
+	- Conceptos:
+		- Plano: La toma final elegida para introducir en el video.
+		- Toma: Los procesos para obtener un plano.
+		- Escena: Conjunto de planos. Puede coincidir con uno o varios planos, por ejemplo una conversación en un restaurante.  Toma lugar en un mismo sitio y un mismo tiempo.
+		- Secuencia: Es un conjunto de escenas. No es necesario que sea mismo espacio y tiempo.
+		- Plano Secuencia: Todo se graba del tirón en tiempo real.
+		- Racord: Que no haya fallos de consistencia. Se encarga una persona llamada script. Que de un dia a otro todo mantenga el sentido.
+	- Sobre los planos:
+		- Según el tamaño del plano:
+			- Plano General (PG): toma una imagen de lejos para ubicar una historia.
+			- Plano Medio (PM): La atención se centra en los personajes, también se llaman planos narrativos.
+				- Plano americano: Salen los personajes de rodillas para arriba. Destacan cualquier accioné corporal con las manos.
+				- Plano medio: La mitad del cuerpo, de forma clásica.
+			- Primer Plano (PP): Mostrar detalles concretos, mostrando la cara.
+				- Primerísimo primer plano: Solo una parte de la cara.
+				- Plano detalle: Centrarse en un objeto como un anillo.
+		- Según el ángulo de la cámara:
+			- Normal: Como si lo viéramos nosotros.
+			- Picado: De arriba a abajo, como de una ventana a la calle.
+			- Contrapicado: De abajo a arriba, como mirar desde una cloaca la gente que pasa por la calle.
+			- Cenital: Visto desde arriba sin ángulo.
+			- Nadir: Visto desde abajo sin ángulo.
+		- Según el punto de vista:
+			- Frontal: Lo visto de frente.
+			- Dorsal: De lado pero con cierta inclinación.
+			- Lateral o perfil: Totalmente de lado.
+			- Semidorsal: Desde un lateral sobre el lomo, también llamado sobrelomo.
+			- Subjetivo: El punto donde miran todos los persnajes, por ejemplo todos miran una mosca y tu mirando a los personajes que miran a la mosca.
+			- Objeto: Punto de vista de gopro.
+		- Otros:
+			- Holandes: Se usa mucho en terror, coger un ángulo torcido para dar sensación de inquietud.
+			- Flip Over: Se gira la cámara 180º.
+			- Aereo: perspectiva aerea.
+			- Espejo: Alguien o algo se mira en un reflejo / espejo.
+			- Zoom o Traveling: El primero no mueve la camara y pierde la sensacion de profundiad, traveling mueve la camara y la mantiene.
