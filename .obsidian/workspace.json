@@ -11,18 +11,6 @@
             "id": "65d94970e444928c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "1. General/1.Horario CEVR.png"
-              },
-              "icon": "lucide-image",
-              "title": "1.Horario CEVR"
-            }
-          },
-          {
-            "id": "478926b1da59436d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
@@ -33,8 +21,7 @@
               "title": "Notas sin procesar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,14 +166,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "478926b1da59436d",
+  "active": "65d94970e444928c",
   "lastOpenFiles": [
+    "1. General/1. 2o evaluacion.png",
+    "1. General/1.Horario CEVR.png",
+    "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
     "2. Diseño Gráfico 2D y 3D/3. Dibujo 2D Vectorial.md",
     "2. Diseño Gráfico 2D y 3D/2. Introducción y Conceptos.md",
-    "2. Diseño Gráfico 2D y 3D/Notas sin procesar.md",
     "2. Diseño Gráfico 2D y 3D/LaFlorDeLaVida.svg",
     "2. Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",
-    "1. General/1.Horario CEVR.png",
     "3. Diseño,Gestión publicación y producción/1. Cuaderno de Bitácora.md",
     "4. Programación y motor de videojuegos/Eventos en unity.md",
     "4. Programación y motor de videojuegos/1. Cuaderno de Bitácora.md",
@@ -215,7 +203,6 @@
     "9. Images/Pasted image 20251014102525.png",
     "9. Images/Pasted image 20251014102514.png",
     "9. Images/Pasted image 20251014102500.png",
-    "9. Images/Pasted image 20251014102444.png",
     "Diseño Gráfico 2D y 3D/2. Introducción y Conceptos.md",
     "Diseño Gráfico 2D y 3D/Notas sin procesar.md",
     "Diseño Gráfico 2D y 3D/1. Cuaderno de Bitácora.md",

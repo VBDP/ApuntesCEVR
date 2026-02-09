@@ -66,3 +66,22 @@
 			- Aereo: perspectiva aerea.
 			- Espejo: Alguien o algo se mira en un reflejo / espejo.
 			- Zoom o Traveling: El primero no mueve la camara y pierde la sensacion de profundiad, traveling mueve la camara y la mantiene.
+
+- **3D:**
+	- Modelado: Crear objetos tridimensionales.
+		- Hay diversas maneras de crear modelos 3D.
+	- Aplicar materiales.
+		- Pueden ser colores, texturas... o todo a la vez
+	- Iluminación.
+		- Necesitamos poder visualizar los objetos de alguna manera.
+	- Camera
+		- Captura la imagen.
+	- Render
+		- El cálculo de como quedaría la imagen .
+	- Animación: 
+		- Animar el objeto estático de forma que al renderizar nos dé un video.
+		- Hay 2 tipos:
+			- Tradicional: Haces unos dibujos que aparentan movimientos.
+				- Rigs
+				- Bones
+			- Físicas:
