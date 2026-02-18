@@ -1,0 +1,14 @@
+- Inteligencia artificial
+	- Sobre los enemigos:
+		- En videojuegos siempre tienen unos estados definidos y claros:
+			- Idle
+			- Patrol
+			- Alert
+			- Chase
+			- Attack
+		- Los estados tienen una jerarquía, un estado depende de otro. Sin un Chase no llegaríamos a atacar nunca. 
+		- FSM - Finite State Machine. 
+			- A nivel teorico no maneja bien las jerarquias.
+		- FSMJ son jerarquicas lo manejan mejor.
+	- Las máquinas de estado:
+		- Que solo haya un estado activo
