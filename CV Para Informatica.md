@@ -1,0 +1,19 @@
+- Hacer un cv único para cada empresa.
+	- Explicar y resaltar lo que la empresa solicita.
+-  Si se envía por correo, enviar carta de presentación obligatoriamente.
+- Github bien organizado.
+	- Todos los proyectos con readme.
+		- Estado tecnológico (herramientas usadas, packages...).
+	- Estructura de commits adecuada. (Conventional Commits).
+	- Tests Unitarios en todo lo que se pueda, Logs...
+- Una web / Portfolio propio con redirección a los proyectos.
+- Características importantes de un cv:
+	- Minimalista.
+	- 1 Página.
+- Soft Skills:
+	- Ser detallista.
+	- Capacidad de seguir instrucciones.
+	- Buena comunicación.
+	- Proactividad.
+	- Empatía.
+	- Resolución de problemas. (En nuestro github no tener uno generico, tener problemas reales como un sistema automatico que resuelva la necesidad de un negocio).
