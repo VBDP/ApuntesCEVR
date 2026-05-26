@@ -17,3 +17,11 @@
 	- Proactividad.
 	- Empatía.
 	- Resolución de problemas. (En nuestro github no tener uno generico, tener problemas reales como un sistema automatico que resuelva la necesidad de un negocio).
+
+- Ejemplo de portfolio interactivo:
+	- https://bruno-simon.com/
+
+- Libreria usada:
+	- https://threejs.org/
+- Web de creadores y ejemplos
+	- https://www.awwwards.com/
